@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6904d12dde73d744681da37293d116f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionText: {instanceID: 0}
+  - parentButtons: {instanceID: 0}
+  - prefabButtonAnswer: {fileID: 353200417575260898, guid: 2bbe1d2736ffaa2499b700c57da2f134,
+      type: 3}
+  - countQuestionsText: {instanceID: 0}
+  - countErrorsText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
